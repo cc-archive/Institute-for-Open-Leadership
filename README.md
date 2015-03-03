@@ -7,6 +7,6 @@ add description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Cable Green](https://github.com/cablegreen)  |
-| Approvers  | [Cable Green](https://github.com/cablegreen); [Tim Vollmer](https://github.com/tvol)  |
-| Contributors | [Tim Vollmer](https://github.com/tvol) |
+| Accountable  | [Cable Green](https://github.com/cablegreen); [Tim Vollmer](https://github.com/tvol)  |
+| Consulted | [Tim Vollmer](https://github.com/tvol) |
 | Informed | Add yourselves here |
